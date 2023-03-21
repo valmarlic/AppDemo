@@ -1,7 +1,6 @@
-package com.cursoapirest.status;
+package com.cursoapirest.modulos;
 
 import org.springframework.http.ResponseEntity;
-import org.springframework.http.StreamingHttpOutputMessage;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
